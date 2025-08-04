@@ -1,4 +1,4 @@
-![Firma](./Captura de pantalla 2025-08-04 002121.png)
+![Firma](./firma.png)
 
 # I'm Benyi!
 [![Instagram](https://img.shields.io/badge/benjaf.a_cl-white?logo=instagram&logoColor=black)](https://www.instagram.com/benjaf.a_cl?utm_source=qr&igsh=MXYyNXNxY2Vwb2Vucg==)
