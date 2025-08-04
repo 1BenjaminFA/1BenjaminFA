@@ -15,4 +15,5 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=1BenjaminFA&theme=dark&hide_border=true&border_radius=6&locale=es&date_format=j%20M%5B%20Y%5D&background=45%2C0F172A%2C1F2A44&stroke=4D26EB&fire=FF9F43&sideNums=22D3EE&dates=7A8FA6&ring=FF8C42&currStreakNum=FFFFFF&currStreakLabel=FFD27F&sideLabels=C0CAFF)](https://git.io/streak-stats)
 
 [![Lenguajes ](https://github-readme-stats.vercel.app/api?username=1BenjaminFA)](https://github.com/anuraghazra/github-readme-stats)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1BenjaminFA&layout=compact)
